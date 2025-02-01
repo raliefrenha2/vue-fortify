@@ -1,5 +1,7 @@
 <script setup></script>
 
 <template>
-  <main>Home</main>
+  <div class="w-full">
+    <p>Homex</p>
+  </div>
 </template>
